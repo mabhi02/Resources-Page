@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 <style>
 body {
@@ -83,7 +82,7 @@ height: 200px; /* Just an example height*/
                         <h3 class="text-center">Resources</h3>
                         <p>
       <a href="https://drive.google.com/drive/folders/1zOKXdEzWTs4cOGvucFjx2VBsy7E-p_BP">
-         <img alt="Oratory" src="oratory prep.png"
+         <img alt="Oratory" src="images/site images/oratory prep.png"
          width="350" height="250">
       </a>
       <p> </p>
@@ -91,7 +90,7 @@ height: 200px; /* Just an example height*/
                   <p> </p>
 
       <a href="https://drive.google.com/drive/folders/1F6kDXnD27d2plim9JndkKuRtNDLKkVaP">
-         <img alt="Public Forum" src="public forum prep.png"
+         <img alt="Public Forum" src="images/site images/public forum prep.png"
          width="350" height="250">
       </a>
 </p>
